@@ -1,0 +1,21 @@
+[debug] [2018-08-11T13:41:33.930Z] ----------------------------------------------------------------------
+[debug] [2018-08-11T13:41:33.935Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\viral\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2018-08-11T13:41:33.935Z] CLI Version:   3.18.6
+[debug] [2018-08-11T13:41:33.935Z] Platform:      win32
+[debug] [2018-08-11T13:41:33.935Z] Node Version:  v8.9.3
+[debug] [2018-08-11T13:41:33.935Z] Time:          Sat Aug 11 2018 19:11:33 GMT+0530 (India Standard Time)
+[debug] [2018-08-11T13:41:33.937Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-11T13:41:34.052Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-08-11T13:41:34.060Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\viral\Desktop\instagram
+
